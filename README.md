@@ -14,7 +14,7 @@ The system stores everything as code: W3C design tokens in JSON, native SVG comp
 
 ```bash
 # Clone the repo
-git clone https://github.com/multiplai/creative-director-agent.git
+git clone https://github.com/multiplai-ai/creative-director-agent.git
 cd creative-director-agent
 
 # Create your brand directory
@@ -96,7 +96,7 @@ Strategy documents are optional soft dependencies — the CD suite extracts what
 
 ## Upstream Strategy
 
-The Creative Director Agent focuses on visual identity and asset production. For the upstream strategy suite (discovery, positioning, brand strategy, ICP personas, content strategy), see the [CMO Agent](https://github.com/multiplai/cmo-agent).
+The Creative Director Agent focuses on visual identity and asset production. For the upstream strategy suite (discovery, positioning, brand strategy, ICP personas, content strategy), see the [CMO Agent](https://github.com/multiplai-ai/cmo-agent).
 
 ## License
 
